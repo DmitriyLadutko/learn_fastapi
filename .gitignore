@@ -1,0 +1,63 @@
+# ===========================
+# Python / Odoo
+# ===========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Odoo .pyc, .pyo
+*.pyo
+*.pyc
+
+# Environment
+.env/
+venv/
+ENV/
+env/
+.venv/
+.env
+
+# Odoo log files
+*.log
+
+# Odoo addons cache
+*.egg-info/
+*.sqlite
+*.db
+
+# ===========================
+# JetBrains / PyCharm
+# ===========================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Inspection profiles
+.idea/inspectionProfiles/
+
+# Other IDE files
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+
+# ===========================
+# Windows / OS generated
+# ===========================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+*.stackdump
+
+# ===========================
+# Node / npm
+# ===========================
+node_modules/
+
+# ===========================
+# Mac OS
+# ===========================
+.DS_Store
